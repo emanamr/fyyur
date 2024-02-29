@@ -3,24 +3,24 @@
 ## Tech Stack
 emanamr/fyyur is built on the following main stack:
 
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
 - [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Angular](https://angular.io) – Javascript MVC Frameworks
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Angular](https://angular.io) – Javascript MVC Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - [Pylint](https://www.pylint.org/) – Code Review
 - [TSLint](https://github.com/palantir/tslint) – Code Review
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -30,24 +30,24 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 emanamr/fyyur is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [emanamr/fyyur](https://github.com/emanamr/fyyur)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|01/05/24 <br/>Report generated|
+|75<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -316,14 +316,14 @@ Full tech stack [here](/techstack.md)
 |[Werkzeug](https://pypi.org/project/Werkzeug)|v0.15.2|07/01/19|Gabe Ruttner |BSD-3-Clause|[CVE-2023-25577](https://github.com/advisories/GHSA-xg9f-g7g7-2323) (High)<br/>[CVE-2023-23934](https://github.com/advisories/GHSA-px8h-6qxv-m22q) (Low)|
 |[aniso8601](https://pypi.org/project/aniso8601)|v6.0.0|07/18/19|Abraham Feinberg |BSD-3-Clause|N/A|
 |[astroid](https://pypi.org/project/astroid)|v2.2.5|07/01/19|Gabe Ruttner |LGPL-2.1|N/A|
-|[ecdsa](https://pypi.org/project/ecdsa)|v0.13.2|07/01/19|Gabe Ruttner |MIT|[CVE-2019-14859](https://github.com/advisories/GHSA-8qxj-f9rh-9fg2) (Critical)<br/>[CVE-2019-14853](https://github.com/advisories/GHSA-pwfw-mgfj-7g3g) (High)<br/>[](https://github.com/advisories/GHSA-2mrj-435v-c2cr) (Moderate)|
+|[ecdsa](https://pypi.org/project/ecdsa)|v0.13.2|07/01/19|Gabe Ruttner |MIT|[CVE-2019-14859](https://github.com/advisories/GHSA-8qxj-f9rh-9fg2) (Critical)<br/>[CVE-2024-23342](https://github.com/advisories/GHSA-wj6h-64fc-37mp) (High)<br/>[CVE-2019-14853](https://github.com/advisories/GHSA-pwfw-mgfj-7g3g) (High)<br/>[](https://github.com/advisories/GHSA-2mrj-435v-c2cr) (Moderate)|
 |[future](https://pypi.org/project/future)|v0.17.1|07/01/19|Gabe Ruttner |MIT|[CVE-2022-40899](https://github.com/advisories/GHSA-v3c5-jqr6-7qm8) (High)|
 |[isort](https://pypi.org/project/isort)|v4.3.18|07/01/19|Gabe Ruttner |MIT|N/A|
 |[itsdangerous](https://pypi.org/project/itsdangerous)|v1.1.0|07/01/19|Gabe Ruttner |BSD-3-Clause|N/A|
 |[lazy-object-proxy](https://pypi.org/project/lazy-object-proxy)|v1.4.0|07/01/19|Gabe Ruttner |BSD-2-Clause|N/A|
 |[mccabe](https://pypi.org/project/mccabe)|v0.6.1|07/01/19|Gabe Ruttner |Saxpath|N/A|
 |[psycopg2-binary](https://pypi.org/project/psycopg2-binary)|v2.8.2|07/18/19|Abraham Feinberg |BSD-3-Clause-Attribution|N/A|
-|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.6.6|07/01/19|Gabe Ruttner |BSD-3-Clause,Unlicense,Apache-2.0|N/A|
+|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.6.6|07/01/19|Gabe Ruttner |BSD-3-Clause,Unlicense,Apache-2.0|[CVE-2023-52323](https://github.com/advisories/GHSA-j225-cvw7-qrx7) (Moderate)|
 |[python-dateutil](https://pypi.org/project/python-dateutil)|v2.6.0|08/06/19|Abraham Feinberg |NRL|N/A|
 |[pytz](https://pypi.org/project/pytz)|v2019.1|07/18/19|Abraham Feinberg |MIT|N/A|
 |[six](https://pypi.org/project/six)|v1.12.0|07/01/19|Gabe Ruttner |MIT|N/A|
